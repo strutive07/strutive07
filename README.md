@@ -27,8 +27,7 @@ tf.print(msg)
 머신러닝과 백엔드에 큰 재미를 가지고 행복하게 개발하는 개발자입니다.
 최근에는 자연어 처리, NMT, language model 분야에 관심이 많습니다.
 
-Skill set
-Python, Tensorflow, Django, Mysql, AWS ECS
+Skill set: Graph Neural Network, Collaborative filtering, Python, Tensorflow, Django, Mysql, AWS ECS
 
 ## 경력
 
