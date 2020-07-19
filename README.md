@@ -30,7 +30,6 @@ tf.print(msg)
 Skill set: Graph Neural Network, Collaborative filtering, Python, Tensorflow, Django, Mysql, AWS ECS
 
 ## 경력
-
 ### 드라마 앤 컴퍼니
 
 **Talent Recommender System for Recruiter**
@@ -85,6 +84,8 @@ Skill set: Amazon Redshift, python, Dramatiq, Rabitmq, Google apps script
 Skill set: Python, Tensorflow, Flask
 
 ## Open source projects
+[![Wonjun Jang's github stats](https://github-readme-stats.vercel.app/api?username=strutive07)](https://github.com/anuraghazra/strutive07)
+
 **Transformer in tensorflow 2.0**
 
 - Attention is all you need 에서 제안한 transformer 모델을 tensorflow 2.0 으로 구현 및 학습.
