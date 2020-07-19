@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 ![about](https://strutive07.github.io/assets/images/about.JPG)
 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/strutive07/)](https://www.facebook.com/strutive07/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-jang-48b600169/)](https://www.linkedin.com/in/wonjun-jang-48b600169/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:strutive07@gmail.com)](mailto:strutive07@gmail.com)
+
 ```python
 import tensorflow as tf
 msg = tf.constant('Hello World')
