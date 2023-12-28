@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/strutive07/)](https://www.facebook.com/strutive07/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonjun-jang-48b600169/)](https://www.linkedin.com/in/wonjun-jang-48b600169/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:strutive07@gmail.com)](mailto:strutive07@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wonjun.oopy.io/)](https://wonjun.oopy.io/) 
 
 
-I am working on recommendation model research and engineering related to recommendation system. I am interested in the entire process of research and development of search and recommendation systems.
+I am a machine learning engineer at Kakao Recommendation Team.
+Recently, I have been working on LLM-related dataset creation, training, and serving.
+Previously, I was involved in researching recommendation models and engineering related to recommendation systems.
